@@ -1,5 +1,5 @@
 {
-  "name": "ngl",
+  "name": "@omaraltayyn/ngl",
   "version": "2.0.0-dev.39",
   "description": "Scalable molecular graphics for the web",
   "main": "dist/ngl.umd.js",
@@ -95,14 +95,14 @@
     "ts-jest": "25.5.1",
     "typedoc": "^0.16.11",
     "typescript": "^3.8.3",
-    "uglify-js": "^3.4.6"
+    "uglify-js": "^3.4.6",
+    "update": "^0.7.4"
   },
   "dependencies": {
     "chroma-js": "^1.3.7",
     "promise-polyfill": "^8.0.0",
     "signals": "^1.0.0",
     "sprintf-js": "^1.1.2",
-    "three": "^0.118.0",
-    "update": "^0.7.4"
+    "three": "^0.128.0"
   }
 }
